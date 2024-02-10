@@ -1,0 +1,26 @@
+.card-wrapper{
+    border:3px solid rgb(32, 91, 219);
+    padding: 20px;
+  border-radius: 10px;
+  width: 1000px;
+  color:aliceblue;
+
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+ margin: 0 auto;
+  margin-bottom: 20px;
+  background-color:#1d1f24;
+ }
+.text{
+    margin-right: 300px;
+    margin-bottom: 15px;
+    margin-top: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+*{
+    background-color:#1d1f24;
+}
+
+ 
