@@ -4,6 +4,7 @@
   border-radius: 10px;
   width: 1000px;
   color:aliceblue;
+  font-family: sans-serif;
 
   display: flex;
   justify-content: space-between;
@@ -12,15 +13,24 @@
   margin-bottom: 20px;
   background-color:#1d1f24;
  }
-.text{
-    margin-right: 300px;
-    margin-bottom: 15px;
-    margin-top: 20px;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
 
-*{
+
+body{
     background-color:#1d1f24;
 }
 
- 
+
+ .card-text{
+    margin-right: 200px;
+ }
+
+ .header{
+    color:aliceblue;
+    display: flex;
+    padding: 5px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    margin-bottom: 100px;
+    background-color:#101114;
+    justify-content: center;
+    align-items:center;
+ }
